@@ -8,7 +8,12 @@ This is a simple script written in Python 3.9 that simulates a coin flip to demo
    - Total count of heads and tails
    - List of flips result
 
-   # Usage
+   # Usage 
+
+```
+default count is 1000, change n to any value
+
+```
 
    ```bash
  python3.9 flip.py
