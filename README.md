@@ -2,9 +2,8 @@
 # Coin Flip Simulator
 This is a simple script written in Python 3.9 that simulates a coin flip to demonstrate the Gambler's Fallacy. The script flips a coin n times and tracks the following information:
 
-Longest streak of heads or tails
    
-   
+   - Longest streak of heads or tails
    - Number of times the streak is broken
    - Total count of heads and tails
    - List of flips result
