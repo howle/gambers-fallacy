@@ -10,10 +10,7 @@ This is a simple script written in Python 3.9 that simulates a coin flip to demo
 
    # Usage 
 
-```
-default count is 1000, change n to any value
 
-```
 
    ```bash
  python3.9 flip.py
